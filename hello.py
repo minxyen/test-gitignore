@@ -7,3 +7,10 @@ def greet():
   
 
 greet()
+
+
+
+
+
+def second_func():
+  print('second_func')
